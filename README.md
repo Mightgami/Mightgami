@@ -5,7 +5,7 @@
 * 🌱 Currenly learning new game dev skills and design patterns
 * 💡 Interested in Game development
 * 👯 Looking to collaborate on Game Jams or Game projects
-* ⚡ Fun fact: I love videogames, music and sport
+* ⚡ Other hobbies: I love videogames, music and sport
 <!--* 🔭 Currently working at -->
 
 ## Languages <img height="60" src="https://i.pinimg.com/originals/9f/4b/dd/9f4bdd77300ed1c94d2b56dca230d2bd.gif">
